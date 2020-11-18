@@ -206,3 +206,5 @@ mm/dd/yyyy | hh:mm:ss | x → transcript | video title + (participants)
 08/20/2020 | 00:51:14 | bit.ly/2IAmFD0 | Money Plane (Mike, Jay)
 08/31/2020 | 00:39:09 | bit.ly/2IA7jPh | Bill and Ted Face the Music (Rich, Jay)
 11/08/2020 | 00:54:13 | bit.ly/3eZlfOC | Borat 2 and The Haunting of Bly Manor (Mike, Jay)
+
+https://www.redlettermedia.com/half-in-the-bag

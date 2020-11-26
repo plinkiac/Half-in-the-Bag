@@ -1,4 +1,4 @@
-mm/dd/yyyy | hh:mm:ss | x → transcript | video title + (participants)
+mm/dd/yyyy | hh:mm:ss | x → transcript | title + (participants)
 
 03/11/2011 | 00:11:53 | bit.ly/3ly9lOi | Drive Angry and The Adjustment Bureau (Mike, Jay, Rich)
 03/15/2011 | 00:10:03 | bit.ly/35tKUf5 | Battle Los Angeles and Galaxy Invader (Mike, Jay, Rich)

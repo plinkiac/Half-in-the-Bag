@@ -292,7 +292,7 @@ Jay: Uh, have you ever been so overcome with guilt that it weighs heavy on your 
 Jay: Well, it was nothing like that.
 Mike: What?
 Mike: Oh, my.
-Mike: It's Milwaukee's real-life superhero, The Watchman.
+Mike: It's Milwaukee's real life superhero, The Watchman.
 Watchman: I was out patrolling the neighborhood, and I just heard two very loud...people talking about movies.
 Watchman: Mind if I join you?
 ["Here comes The Watchmen!"]
@@ -315,11 +315,11 @@ Mike: Okay.
 Jay: Okay, good.
 Jay: So, um...
 Mike: So, you are a real life superhero?
-Watchman: That's the popular term for this real life superhero.
+Watchman: That's the popular term for it, is real life superhero.
 Watchman: Um, it was, I guess, coined by the, the media.
 ["Real life superheroes, as you see here, is a growing movement."]
 ["Get this: there are an estimated 300 members patrolling cities across the country."]
-Watchman: Now, I kind of, I kind of like the superhero aspect of it, not that I'm, uh, have superpowers or anything like that, but, um, you know, kind of, setting out to live up to those, those ideals, um, that, that we get from comic book superheroes, movie superheroes.
+Watchman: No, I kind of, I kind of like the superhero aspect of it, not that I'm, uh, have superpowers or anything like that, but, um, you know, kind of, setting out to live up to those, those ideals, um, that, that we get from comic book superheroes, movie superheroes.
 Mike: Um, take us through like a typical night, like a typical patrol night or, you know, what, what you do.
 Watchman: A typical patrol night would, is actually really boring.
 Watchman: And what I do is basically walking around, but, uh, I'm also keeping my eyes, my ears open, and paying attention to what's going on around.
